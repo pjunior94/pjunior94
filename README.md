@@ -2,7 +2,7 @@
 
 > I currently living in Porto, Portugal. I've been working as .Net Developer for about 6 years in some national and international projects around the 🌎. I am graduated in Analysis and Systems Development. My main skills are <strong>.Net C#, Angular and React Native / Ionic </strong> to build mobile apps as I had some experience as Fullstack Developer.
 
-💼 I'd worked for companies of several segments such as small and medium businesses, aviation, road transportation, and financial services.
+💼 I'd worked for companies of several segments such as small and medium businesses, aviation, transportation, and financial services.
 
 👨‍💻 I'm currently working full-time at IT Sector as .Net Developer allocated as a Fullstack Consultant from OnRising.
 
