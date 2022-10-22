@@ -4,7 +4,7 @@
 
 💼 I'd worked for companies of several segments such as small and medium businesses, aviation, transportation, and financial services.
 
-👨‍💻 I'm currently working full-time at IT Sector as .Net Developer allocated as a Fullstack Consultant from OnRising.
+👨‍💻 I'm currently working full-time at CGI as Software Engineer allocated in a project in UK.
 
 💬 How to reach me:
 
